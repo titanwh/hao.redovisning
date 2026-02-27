@@ -1,0 +1,7 @@
+streamlit
+supabase
+python-dotenv
+requests
+pdf2image
+pillow
+opencv-python
